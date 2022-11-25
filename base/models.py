@@ -39,6 +39,3 @@ class AbstractBaseUser(AbstractUser):
 
     class Meta:
         abstract = True
-
-
-
